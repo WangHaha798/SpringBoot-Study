@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApifoxUploaderProjectSetting">
+    <option name="apifoxAccessToken" value="APS-oNmpxCZSFiDu3eqFoz794HIQl7El0gC1" />
+    <option name="apifoxApiOverwriteMode" value="覆盖所有字段" />
+    <option name="apifoxProjectIds">
+      <array>
+        <option value="# SpringBoot-study:2617154,后端/后端API" />
+      </array>
+    </option>
+    <option name="yapiTokens" value="" />
+  </component>
+</project>
